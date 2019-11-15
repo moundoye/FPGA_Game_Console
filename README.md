@@ -1,3 +1,3 @@
 # FPGA_Game_Console
 
-Voir les instructions sur la page de GNU Radio : [https://www.github.com/gnuradio/gnuradio/](www.github.com/gnuradio/gnuradio/)
+Link to the demonstration video : [https://drive.google.com/open?id=1DLmYmW6tVs-BpK2jhmXYWPjPZb4RduxF)
